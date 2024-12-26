@@ -9,6 +9,7 @@
         <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
@@ -109,8 +110,8 @@
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-md-10 col-lg-8 mx-auto text-center">
                         <i class="fab fa-whatsapp fa-2x mb-2 text-white"></i>
-                        <h2 class="text-white mb-5">Bergabung dengan komunitas kami dan temukan dukungan IT terbaik!</h2>
-                        <a href="#" class="btn btn-primary">Gabung Sekarang</a>
+                        <h2 class="text-white mb-5">Hubungi kami sekarang untuk solusi IT terbaik dan dukungan profesional!</h2>
+                        <a href="https://wa.me/6285799710939" target="_blank" class="btn btn-primary">Hubungi Sekarang</a>
                     </div>
                 </div>
             </div>
@@ -135,7 +136,7 @@
                                 <i class="fas fa-envelope text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Email</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="#!">wbccomputerofficial@gmail.com</a></div>
+                                <div class="small text-black-50"><a href="mailto:wbccomputerofficial@gmail.com">wbccomputerofficial@gmail.com</a></div>
                             </div>
                         </div>
                     </div>
@@ -151,9 +152,9 @@
                     </div>
                 </div>
                 <div class="social d-flex justify-content-center">
-                    <a class="mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                    <a class="mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                    <a class="mx-2" href="#!"><i class="fab fa-instagram"></i></a>
+                    <a class="mx-2" href="mailto:wbccomputerofficial@gmail.com"><i class="fas fa-envelope"></i></a>
+                    <a class="mx-2" href="https://www.instagram.com/wbccomputer?igsh=MTFzNnk4bjE0ajk0Zg=="><i class="fab fa-instagram"></i></a>
+                    <a class="mx-2" href="https://wa.me/6285799710939" target="_blank"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
         </section>
